@@ -45,8 +45,8 @@ Streamlit + Plotly
 建议使用 Python 3.11 或 3.12。
 
 ```powershell
-git clone https://github.com/<your-account>/<repository>.git
-cd <repository>
+git clone https://github.com/ZainZhang26/logistics-ops-insight-demo.git
+cd logistics-ops-insight-demo
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
